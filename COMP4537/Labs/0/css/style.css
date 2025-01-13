@@ -1,0 +1,7 @@
+#gameContainer {
+  height: 95vh;
+  width: 95vw;
+  position: relative;
+  overflow: hidden;
+}
+
